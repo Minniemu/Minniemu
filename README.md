@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 🏫 **Education**
 Master student major in Department of Computer Science and Engineering at NYCU.
 Junior student major in Department of Computer Science and Engineering at NCHU.
+
 👩🏻‍💻 **Working Experience**
 2021 ITRI Intern
 2022 Mediatek Machine Learning & Deep Learning Intern
