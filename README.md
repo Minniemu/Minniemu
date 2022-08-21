@@ -6,7 +6,13 @@
 Here are some ideas to get you started:
 -->
 ### Personal Profile
-:school: Junior student major in Department of Computer Science and Engineering at NCHU.
+🏫 **Education**
+Master student major in Department of Computer Science and Engineering at NYCU.
+Junior student major in Department of Computer Science and Engineering at NCHU.
+👩🏻‍💻 **Working Experience**
+2021 ITRI Intern
+2022 Mediatek Machine Learning & Deep Learning Intern
+
 
 :email: [iceland12321@gmail.com](mailto:iceland12321@gmail.com)
 
