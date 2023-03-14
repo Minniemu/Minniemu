@@ -8,10 +8,12 @@ Here are some ideas to get you started:
 ### Personal Profile
 🏫 **Education**
 
-Master student major in Department of Computer Science and Engineering at NYCU.
-Member of Enriched Vision Applications Lab(EVA Lab), Advisor:Wei-Chen Chui(Walon).
-
-Junior student major in Department of Computer Science and Engineering at NCHU.
+#### Master student major in Department of Computer Science and Engineering at NYCU.
+* Member of Enriched Vision Applications Lab(EVA Lab), Advisor:Wei-Chen Chui(Walon).
+* Major Research Area
+  *  Diffusion Model
+  *  Self-supervised Learning
+#### Junior student major in Department of Computer Science and Engineering at NCHU.
 
 👩🏻‍💻 **Working Experience**
 
