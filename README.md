@@ -9,14 +9,16 @@ Here are some ideas to get you started:
 🏫 **Education**
 
 Master student major in Department of Computer Science and Engineering at NYCU.
+Member of Enriched Vision Applications Lab(EVA Lab), Advisor:Wei-Chen Chui(Walon).
 
 Junior student major in Department of Computer Science and Engineering at NCHU.
 
 👩🏻‍💻 **Working Experience**
 
-2021 ITRI Intern
+Mediatek Machine Learning & Deep Learning Intern(May,2022-Feb,2023)
 
-2022 Mediatek Machine Learning & Deep Learning Intern
+ITRI Intern(July,2021-Dec,2022)
+
 
 
 :email: [iceland12321@gmail.com](mailto:iceland12321@gmail.com)
