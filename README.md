@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 🏫 **Education**
 
 #### Master student major in Department of Computer Science and Engineering at NYCU.
-* Member of Enriched Vision Applications Lab(EVA Lab), Advisor:Wei-Chen Chui(Walon).
+* Member of Enriched Vision Applications Lab(EVA Lab), Advisor:[Wei-Chen Chui(Walon)](https://walonchiu.github.io).
 * Major Research Area
   *  Diffusion Model
   *  Self-supervised Learning
