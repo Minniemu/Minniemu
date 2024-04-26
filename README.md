@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 * Major Research Area
   *  Diffusion Model
   *  Self-supervised Learning
+  *  Current working on Video Understanding model rely on VLM
 #### Junior student major in Department of Computer Science and Engineering at NCHU.
 
 👩🏻‍💻 **Working Experience**
